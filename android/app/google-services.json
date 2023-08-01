@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649843422117",
+    "project_id": "iti-task-eab1e",
+    "storage_bucket": "iti-task-eab1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649843422117:android:3ed46d62af46e5a327ee4c",
+        "android_client_info": {
+          "package_name": "com.example.iti_course_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649843422117-v4388sd3kt64d2m9trrhorut99soe8du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_257_JVoxJV0RhVe4Lib9tEluVKl7Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649843422117-v4388sd3kt64d2m9trrhorut99soe8du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
