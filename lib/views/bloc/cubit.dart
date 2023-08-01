@@ -55,7 +55,7 @@ class LoginCubit extends Cubit<LoginStates> {
       if (context.mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
-            content: Text('Sign Up Successful'),
+            content: Text('Sign Up Successful,Go to Sign In page'),
           ),
         );
       }
