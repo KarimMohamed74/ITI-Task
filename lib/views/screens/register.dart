@@ -88,7 +88,7 @@ class RegisterPage extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      const Text('Already have an accoun? '),
+                      const Text('Already have an account? '),
                       InkWell(
                         onTap: () {
                           Navigator.pushReplacement(
