@@ -56,6 +56,7 @@ class RegisterPage extends StatelessWidget {
                     height: 20,
                   ),
                   myTFF(
+                    controller: password,
                     validate: (String? value) {
                       if (value!.isEmpty || value.length < 8) {
                         return 'passwword is too short';
